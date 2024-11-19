@@ -27,7 +27,7 @@
 </p>
 </div>
 
-🔗 **GPTium** is an extension that allows you to send selected text directly to ChatGPT.
+🔗 **Gptium** is an extension that allows you to send selected text directly to ChatGPT.
 
 ## 📦 | Installation
 
